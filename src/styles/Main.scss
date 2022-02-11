@@ -1,0 +1,27 @@
+
+.page-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.title p {
+  color: #011F4B;
+  font-size: 24px;
+  font-weight: 700;
+}
+.title span {
+  color: #7E8299;
+  font-size: 16px;
+  font-weight: 700;
+}
+.filters{
+  display: flex;
+}
+.filters button {
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.reports {
+  margin-top: 10px;
+}
